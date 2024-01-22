@@ -1,5 +1,5 @@
 ---
-title: Home Page
+title: The Beginning Page
 ---
 
 This is the home page of Rahul's CM3 website.
